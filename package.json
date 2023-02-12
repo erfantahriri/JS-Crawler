@@ -17,7 +17,9 @@
     "url": "https://github.com/erfantahriri/JS-Crawler/issues"
   },
   "homepage": "https://github.com/erfantahriri/JS-Crawler#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jsdom": "^21.1.0"
+  },
   "devDependencies": {
     "jest": "^29.4.2"
   }
