@@ -1,0 +1,24 @@
+{
+  "name": "js-crawler",
+  "version": "1.0.0",
+  "description": "A crawler written in JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfantahriri/JS-Crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erfantahriri/JS-Crawler/issues"
+  },
+  "homepage": "https://github.com/erfantahriri/JS-Crawler#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
